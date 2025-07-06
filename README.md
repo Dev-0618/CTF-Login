@@ -142,8 +142,3 @@ MIT License – Feel free to use, modify, and contribute responsibly.
 
 ```
 
----
-
-Let me know if you want a **dark-themed version**, emojis removed, or split into sections like `README.md`, `PINOUT.md`, etc.  
-Also, I can create a **TOC (table of contents)** with anchor links if you're publishing this for a larger audience.
-```
